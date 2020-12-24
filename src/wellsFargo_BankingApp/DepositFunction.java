@@ -21,6 +21,9 @@ public class DepositFunction {
         System.out.println("Creating new feature DAy2 of work");
         System.out.println("Code is working great!");
 
+        //I am a tester and I am starting to work on the miniFeature
+        System.out.println("Mini Feature in progress");
+
 
     }
 
